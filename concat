@@ -1,0 +1,11 @@
+public class Main{
+public static void main(string args[]){
+string s1="hii,Im";
+string s2="palak"; 
+system .out.println(s1 concat(s2));
+}
+}
+
+
+
+
