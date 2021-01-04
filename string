@@ -1,0 +1,7 @@
+public class Main{
+public static void main (string args[]){
+string s1="palak";
+string s2="jaiswal";
+System out.println(s1.compareTo(s2));
+}
+}
