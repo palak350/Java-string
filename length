@@ -1,0 +1,10 @@
+public class Main{
+public static void main(string args[]){
+string Str1=new String("welcome to lnct college");
+String.out.println(Str1.length());
+}
+}
+
+
+
+
