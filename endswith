@@ -1,0 +1,12 @@
+public class Main{
+public static void main(string args[]){
+String s="This Is Palak Jaiswal";
+System.out.println(s.endswith("Pal"));
+System.out.println(s.endsWith("wal"));
+System.out.println(s.endswith("z"));
+}
+}
+
+
+
+
